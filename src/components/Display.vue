@@ -13,7 +13,7 @@ export default {
 <style>
   .display {
     grid-column: span 4;
-    background-color: #004;
+    background-color: #003;
 
     display: flex;
     justify-content: flex-end;
