@@ -8,7 +8,7 @@
 export default {
   props : {
     label: {},
-    doble: { type: Boolean},
+    double: { type: Boolean},
     triple: { type: Boolean },
     operation: { type: Boolean }
   }
@@ -34,7 +34,7 @@ export default {
   background-color: #ccc;
 }
 
-.button.doble {
+.button.double {
   grid-column: span 2;
 }
 
